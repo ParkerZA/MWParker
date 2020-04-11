@@ -68,6 +68,17 @@ module.exports = {
         plugins: [`gatsby-remark-images`],
       },
     },
+    {
+      resolve: `gatsby-plugin-scroll-indicator`,
+      options: {
+        // Configure color of the scroll indicator
+        color: '#4b189e',
+        // Height of the scroll indicator
+        height: '3px',
+        // Configure the z-index of the indicator element
+        zIndex: `9999`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,

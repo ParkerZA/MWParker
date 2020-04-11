@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import ContentHeader from './ContentHeader'
 import { colors } from '../tokens'
 import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer'
+import PerfectScrollbar from 'react-perfect-scrollbar'
 
 const ContentBody = styled.div`
   line-height: 1.8;
@@ -160,7 +161,9 @@ class Content extends React.Component {
         )}
 
         <ContentBody>
-          <MDXRenderer>{content}</MDXRenderer>
+          <PerfectScrollbar>
+            <MDXRenderer>{content}</MDXRenderer>
+          </PerfectScrollbar>
         </ContentBody>
       </section>
     )

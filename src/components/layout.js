@@ -7,6 +7,7 @@ import 'prismjs/themes/prism-tomorrow.css'
 import { GlobalStyle } from './Commons'
 import { media } from '../tokens'
 
+
 const SiteContent = styled.div`
   margin: 0 0;
 
@@ -29,7 +30,9 @@ class Template extends React.Component {
         </Helmet>
         <GlobalStyle />
         {/* <Header /> */}
-        <SiteContent>{children}</SiteContent>
+        <SiteContent>
+          {children}
+        </SiteContent>
         <Footer />
       </>
     )

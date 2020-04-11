@@ -24,7 +24,7 @@ const ReadPost = styled(Link)`
   color: ${colors.primary};
 
   &:hover {
-    background-color: ${colors.grey300};
+    background-color: #12802f;
     border-radius: 0.25rem;
     color: ${colors.textLightest};
   }
