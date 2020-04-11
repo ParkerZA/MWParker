@@ -24,7 +24,7 @@ const ReadPost = styled(Link)`
   color: ${colors.primary};
 
   &:hover {
-    background-color: ${colors.primaryAlpha};
+    background-color: ${colors.grey300};
     border-radius: 0.25rem;
     color: ${colors.textLightest};
   }
@@ -36,13 +36,13 @@ const PostHeader = styled.header`
 
 const Excerpt = styled.p`
   line-height: 1.45;
-  padding-bottom: 0.5em;
+  padding-bottom: 2em;
 `
 
 const PostTitleLink = styled(Link)`
   color: ${colors.primary};
   &:hover {
-    border-bottom: 1px dotted ${colors.primary};
+    border-bottom: 1px solid ${colors.primary};
   }
 `
 

@@ -66,10 +66,6 @@ export const pageQuery = graphql`
         imageShare {
           publicURL
         }
-        translations {
-          language
-          link
-        }
       }
     }
   }

@@ -5,7 +5,7 @@ import { colors } from '../tokens'
 import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer'
 
 const ContentBody = styled.div`
-  line-height: 1.6;
+  line-height: 1.8;
 
   & > h2 {
     padding-top: 3rem;

@@ -11,9 +11,7 @@ language: fr
 cover: ./cover.jpeg
 imageShare: ./cover.jpeg
 tags: ['fake']
-translations:
-  - link: 'https://www.maxpou.fr/about'
-    language: 'french'
+
 ---
 
 This exists to populate GraphQL fields and avoid null errors. It should contain
