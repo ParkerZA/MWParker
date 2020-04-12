@@ -12,13 +12,13 @@ tags:
 
 ## How to fight procrastination and be productive
 
-The first half of this blog will be spent outlining a couple of helpful productivity techniques that you can hopefully incorporate into your daily life. These techniques are amazing. They're so amazing I may even try them myself some day.
+The first half of this blog will be spent outlining a couple of helpful productivity techniques that you can hopefully incorporate into your daily life. These techniques are amazing. They're so amazing I may even try them myself some day.  
 
 The second half will be spent psycho-analyzing myself and trying to figure out why I am the way that I am. Feel free to extrapolate and learn from my shortcomings.
 
 Seeing as we're all trapped at home for the forseeable future, it's important that we keep ourselves busy and avoid falling into a Netflix hole for three fairytale weeks. So if you're struggling to focus and get things done, hopefully these techniques will be useful to you.
 
-As with all things, you'll only get out of it what you put into it. So don't expect these methods to magically fix your attention span. We'll get into why that is later. 
+As with all things, you'll only get out of it what you put into it. So don't expect these methods to magically fix your attention span. We'll get into why that is later.  
 
 ### 1. The Pomodoro Technique
 
@@ -71,6 +71,7 @@ A situation prone to a bout of procrastination, you say!
 What I'd do is simply create a "stack" of things to do. All of these tasks will have varying levels of urgency, but prioritized in such a way that I'm able to get the things done that really need to be done.
 
 Basically, you have a task at the top of the stack. Clean your car. You're feeling lazy, so what do you do? You procastinate, of course! Slly goose.
+
 
 Only this time, you procrastinate by doing the next task on the stack. It stil feels like you're proctastinating, because you're putting off something that you were supposed to do, you naughty person you. Your mind will breathe a sigh of relief as you're avoiding doing the thing that you've been putting off for so long. Meanwhile, you're actually still being productive! Just don't let your brain know.
 

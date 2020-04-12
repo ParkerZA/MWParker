@@ -6,7 +6,7 @@ import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer'
 import PerfectScrollbar from 'react-perfect-scrollbar'
 
 const ContentBody = styled.div`
-  line-height: 1.8;
+  line-height: 2.1;
 
   & > h2 {
     padding-top: 3rem;
