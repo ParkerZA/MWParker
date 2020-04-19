@@ -78,6 +78,12 @@ module.exports = {
         // Configure the z-index of the indicator element
         zIndex: `9999`,
       },
+      {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-163896448-1",
+      },
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-offline`,
