@@ -121,7 +121,7 @@ The issue is, that's what this film spends the majority of its time giving impor
 
 Was that too on the nose?
 
-If you're thinking at this point, "Hey, wait a minute! Divorce...past...words...", that was intentional on my part. You're absolutely right, that is exactly what The Last Jedi was about! I'll get to that.
+If you're thinking at this point, "Hey, wait a minute! Divorce...past...words...", that was intentional on my part. You're absolutely right, that is exactly what The Last Jedi was about! 
 
 To summarize: TFA is an okay-ish movie, made with the right intentions, but lacking the forethought required to tell a cohesive story. It delights and entertains for the duration of its runtime, but doesn't do enough to stand on its own, even as a segment in a larger arc.
 
